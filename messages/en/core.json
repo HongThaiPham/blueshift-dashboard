@@ -39,7 +39,11 @@
     "skip_lesson_divider_title": "Or skip to the challenge",
     "skip_lesson": "Skip Lesson",
     "lesson_completed": "Congrats, you've finished this course!",
-    "view_other_courses": "View Other Courses"
+    "view_other_courses": "View Other Courses",
+    "explore_more_courses": "Explore More Courses",
+    "next_unit": "Next Unit",
+    "path_completed": "Congrats, you've finished this path!",
+    "explore_more_paths": "Explore More Paths"
   },
   "paths": {
     "title": "Solana Development Learning Paths",
@@ -63,6 +67,10 @@
     "progress": "Progress",
     "empty_title": "No paths found",
     "empty_description": "Try changing your filters to see learning paths here.",
+    "introduction-to-blockchain-and-solana": {
+      "title": "Introduction to Blockchain and Solana",
+      "description": "Start from zero. Learn how blockchains work, why Solana can process thousands of TPS, and what makes Proof of History revolutionary."
+    },
     "solana-developer-foundations": {
       "title": "Solana Developer Foundations",
       "description": "Start your Solana journey with blockchain fundamentals, tokens, and NFTs."
